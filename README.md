@@ -16,6 +16,8 @@ Corre el backend en el puerto 8080.
 ## Uso
 
 Para que la aplicación funcione de manera correcta:
+
+
 1.- En el directorio de la aplicación corra en el comando npm run backend,
     esto hara que el backend corra en el puerto 8080.
     
